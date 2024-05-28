@@ -1,4 +1,4 @@
-# Supervised-Learning-Project
+# Predicting Diabetes with Supervised Learning Models
 
 ## Project/Goals
 The main objectives of this project are as follows:
